@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**mhoo-738399/mhoo-738399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 💻 ITC & Software Engineering Student
 🤖 Passionate about Artificial Intelligence & Data Analysis
