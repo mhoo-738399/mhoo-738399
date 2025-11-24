@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">!!</p>
+<p align="left"></p>
 
 ###
 
