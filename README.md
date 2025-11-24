@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
+
 **mhoo-738399/mhoo-738399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+💻 ITC & Software Engineering Student
+🤖 Passionate about Artificial Intelligence & Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning:
+• Python Programming
+• SQL for Data Analysis
+• AI Development Fundamentals
+
+🎯 Goals:
+• Secure training opportunities in AI/Data field
+• Build practical projects in machine learning
+• Develop a strong foundation in data analytics
+
+📫 Let's Connect: mabd27859@gmail.com
